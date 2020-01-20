@@ -1,0 +1,2278 @@
+{
+	"info": {
+		"_postman_id": "6bc89b86-e0b0-4dc2-b86d-615de9efda02",
+		"name": "Pluto TV",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Device (Web Client)",
+			"item": [
+				{
+					"name": "IPG & Live TV (Firefox)",
+					"item": [
+						{
+							"name": "A. live-tv",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv/live-tv",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"live-tv"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "B. runtime.css",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv/runtime.css",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"runtime.css"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "C. vendor.css",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv/runtime.css",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"runtime.css"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "D. main.css",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv/runtime.css",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"runtime.css"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "E. runtime.bundle.js",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "F. vendor.7a6a6f7ac0eb215d4695.js",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "G. main.594537fd94900c8964eb.js",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "H. favicon-large.png (TV)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv/assets/images/favicons/favicon-large.png",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"assets",
+										"images",
+										"favicons",
+										"favicon-large.png"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "I. favicon.png (TV)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv/assets/images/favicons/favicon.png",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"assets",
+										"images",
+										"favicons",
+										"favicon.png"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "J. logo.svg (Pluto TV)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv/assets/images/logo.svg",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"assets",
+										"images",
+										"logo.svg"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "K. 16x9.png (white)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv/assets/16x9.png",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"assets",
+										"16x9.png"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "L. Watch-Layout.9e1d331ed70460da1a6e.js",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv/vendors~pages/ChatOnly~pages/ChatOnly-Layout~pages/Vod~pages/Watch~pages/Watch-Layout.9e1d331ed70460da1a6e.js",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"vendors~pages",
+										"ChatOnly~pages",
+										"ChatOnly-Layout~pages",
+										"Vod~pages",
+										"Watch~pages",
+										"Watch-Layout.9e1d331ed70460da1a6e.js"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "M. Watch~pages/Watch-Layout.041e32713a6cce48268f.js",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv/vendors~pages/ChatOnly~pages/ChatOnly-Layout~pages/Watch~pages/Watch-Layout.041e32713a6cce48268f.js",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"vendors~pages",
+										"ChatOnly~pages",
+										"ChatOnly-Layout~pages",
+										"Watch~pages",
+										"Watch-Layout.041e32713a6cce48268f.js"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "N. Watch~pages/Watch-Layout.84d577a2f6f66c3fc2a0.js",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv/pages/ChatOnly~pages/ChatOnly-Layout~pages/Watch~pages/Watch-Layout.84d577a2f6f66c3fc2a0.js",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"pages",
+										"ChatOnly~pages",
+										"ChatOnly-Layout~pages",
+										"Watch~pages",
+										"Watch-Layout.84d577a2f6f66c3fc2a0.js"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "O. Watch-Layout.91fe48cef0d0be6e383f.js",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv/pages/Watch-Layout.91fe48cef0d0be6e383f.js",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"pages",
+										"Watch-Layout.91fe48cef0d0be6e383f.js"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "P. Watch.80f34dfb8850d63f8e12.js",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv/pages/Watch.80f34dfb8850d63f8e12.js",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"pages",
+										"Watch.80f34dfb8850d63f8e12.js"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Q. darkPlaceHolder.png",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv/assets/images/darkPlaceHolder.png",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"assets",
+										"images",
+										"darkPlaceHolder.png"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "R. true",
+							"request": {
+								"method": "OPTIONS",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/channels?start=2019-11-15%2014%3A00%3A00.000-0500&stop=2019-11-15%2018%3A00%3A00.000-0500&deviceId=70568f5a-afb2-4272-ad94-8584f0f1f47f&deviceMake=Firefox&deviceType=web&deviceVersion=68.0&DNT=0&sid=358b8dd8-9e3b-4364-a988-14b6107b7d13&appName=web&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"channels"
+									],
+									"query": [
+										{
+											"key": "start",
+											"value": "2019-11-15%2014%3A00%3A00.000-0500"
+										},
+										{
+											"key": "stop",
+											"value": "2019-11-15%2018%3A00%3A00.000-0500"
+										},
+										{
+											"key": "deviceId",
+											"value": "70568f5a-afb2-4272-ad94-8584f0f1f47f"
+										},
+										{
+											"key": "deviceMake",
+											"value": "Firefox"
+										},
+										{
+											"key": "deviceType",
+											"value": "web"
+										},
+										{
+											"key": "deviceVersion",
+											"value": "68.0"
+										},
+										{
+											"key": "DNT",
+											"value": "0"
+										},
+										{
+											"key": "sid",
+											"value": "358b8dd8-9e3b-4364-a988-14b6107b7d13"
+										},
+										{
+											"key": "appName",
+											"value": "web"
+										},
+										{
+											"key": "appVersion",
+											"value": "2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "S. IPG Channel - Pluto TV Kids",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/channels?start=2019-11-15%2014%3A00%3A00.000-0500&stop=2019-11-15%2018%3A00%3A00.000-0500&deviceId=70568f5a-afb2-4272-ad94-8584f0f1f47f&deviceMake=Firefox&deviceType=web&deviceVersion=68.0&DNT=0&sid=358b8dd8-9e3b-4364-a988-14b6107b7d13&appName=web&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"channels"
+									],
+									"query": [
+										{
+											"key": "start",
+											"value": "2019-11-15%2014%3A00%3A00.000-0500"
+										},
+										{
+											"key": "stop",
+											"value": "2019-11-15%2018%3A00%3A00.000-0500"
+										},
+										{
+											"key": "deviceId",
+											"value": "70568f5a-afb2-4272-ad94-8584f0f1f47f"
+										},
+										{
+											"key": "deviceMake",
+											"value": "Firefox"
+										},
+										{
+											"key": "deviceType",
+											"value": "web"
+										},
+										{
+											"key": "deviceVersion",
+											"value": "68.0"
+										},
+										{
+											"key": "DNT",
+											"value": "0"
+										},
+										{
+											"key": "sid",
+											"value": "358b8dd8-9e3b-4364-a988-14b6107b7d13"
+										},
+										{
+											"key": "appName",
+											"value": "web"
+										},
+										{
+											"key": "appVersion",
+											"value": "2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "T. IPG Channel - Newsy Live",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/5be1e06053ed2c6334ebd192/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"5be1e06053ed2c6334ebd192",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "U. IPG Channel - Newsmax",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/5c95659d29f2822e6460ed01/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"5c95659d29f2822e6460ed01",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "V. IPG Channel - Sky News",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/5cf6f71e0ab7d8f181e6992a/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"5cf6f71e0ab7d8f181e6992a",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "W. IPG Channel - DASH Radio - Main Stage",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf0bec94b1821211c973d/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf0bec94b1821211c973d",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "X. IPG Channel - DASH Radio - LOUD",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf6543beda8031cf1c8ef/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf6543beda8031cf1c8ef",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Y. IPG Channel - DASH Radio - The City",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf1b2dd58083512ca21cc/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf1b2dd58083512ca21cc",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Z. IPG Channel - DASH Radio - Red Cup",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf213dd58083512ca21e1/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf213dd58083512ca21e1",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AA. IPG Channel - DASH Radio - Electro City",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf82a3beda8031cf1c947/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf82a3beda8031cf1c947",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AB. IPG Channel - DASH Radio - Monstercast",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf864635daa012385e3c0/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf864635daa012385e3c0",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AC. IPG Channel - DASH Radio - 70s",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf3b8c94b1821211c9765/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf3b8c94b1821211c9765",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AD. IPG Channel - DASH Radio - 80s",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf432b2c07be70c3ec8cd/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf432b2c07be70c3ec8cd",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AE. IPG Channel - DASH Radio - 90s",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf550b2c07be70c3ec8db/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf550b2c07be70c3ec8db",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AF. IPG Channel - DASH Radio - The Cross",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf2b9c94b1821211c9750/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf2b9c94b1821211c9750",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AG. IPG Channel - DASH Radio - Love Songs",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581d0dccc94b1821211c9c9c/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581d0dccc94b1821211c9c9c",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AH. IPG Channel - DASH Radio - Fuego",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf339c94b1821211c975b/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf339c94b1821211c975b",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AI. IPG Channel - DASH Radio - DASH Indie",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf684b2c07be70c3ec902/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf684b2c07be70c3ec902",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AJ. IPG Channel - DASH Radio - Reggae King",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/563d17b12d2719107d945e19/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"563d17b12d2719107d945e19",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AK IPG Channel - DASH Radio - Euphoria",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cff15635daa012385e61d/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cff15635daa012385e61d",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AL. IPG Channel - DASH Radio - Y2K",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf589b2c07be70c3ec8e6/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf589b2c07be70c3ec8e6",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AM. IPG Channel - DASH Radio - Dash 1",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf623b2c07be70c3ec8f5/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf623b2c07be70c3ec8f5",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AN. IPG Channel - DASH Radio - Doggystyle",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf6afc94b1821211c97c5/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf6afc94b1821211c97c5",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AO. IPG Channel - DASH Radio - Dash Alternative",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf7463beda8031cf1c908/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf7463beda8031cf1c908",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AP. IPG Channel - DASH Radio - Discover",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf796b2c07be70c3ec913/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf796b2c07be70c3ec913",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AQ. IPG Channel - DASH Radio - Subdustrial",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cf974635daa012385e3c6/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cf974635daa012385e3c6",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AR. IPG Channel - Vevo - TESTING - Vevo Pop",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/5db736d9d5f34a000934db90/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"5db736d9d5f34a000934db90",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AS. IPG Channel - DASH Radio - The Strip",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581cff5b3beda8031cf1cc65/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581cff5b3beda8031cf1cc65",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AT. IPG Channel - DASH Radio - 11",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581d00bd3beda8031cf1cc8a/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581d00bd3beda8031cf1cc8a",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AU. IPG Channel - DASH Radio - The Oldies",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581d013cc94b1821211c9b63/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581d013cc94b1821211c9b63",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AV. IPG Channel - DASH Radio - Ratpack",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581d01cc3beda8031cf1cc8f/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581d01cc3beda8031cf1cc8f",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AW. IPG Channel - DASH Radio - What The Funk",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581d034a37c538322334030e/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581d034a37c538322334030e",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AX. IPG Channel - DASH Radio - The Bridge",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581d034bc94b1821211c9bf4/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581d034bc94b1821211c9bf4",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AY. IPG Channel - DASH Radio - Moonlight",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581d0d1237c538322334034c/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581d0d1237c538322334034c",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "AZ. IPG Channel - DASH Radio - Pure Soul",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581d0d51c94b1821211c9c98/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581d0d51c94b1821211c9c98",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BA.IPG Channel - DASH Radio - La Isla",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581d0e0a3beda8031cf1ccd0/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581d0e0a3beda8031cf1ccd0",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BB. IPG Channel - DASH Radio - Cool",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/581d0e96c94b1821211c9e8b/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"581d0e96c94b1821211c9e8b",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BC. IPG Channel - Entertainment Tonight - Entertainment Tonight 1",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/5dcb2fe14cd9dc0009857bc1/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"5dcb2fe14cd9dc0009857bc1",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BD. IPG Channel - CBSN-NY - CBSN NY",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/5dcb1e2c56a9480009f7818e/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"5dcb1e2c56a9480009f7818e",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BE. IPG Channel - CBSN-LA - CBSN-LA",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://api.pluto.tv/v2/episodes/5dcb20556423a70009398939/clips.json",
+									"protocol": "http",
+									"host": [
+										"api",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"v2",
+										"episodes",
+										"5dcb20556423a70009398939",
+										"clips.json"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BF. IPG Logo (Pluto TV 007)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://images.pluto.tv/channels/5d4db961034718b2f52f9e52/logo.png",
+									"protocol": "http",
+									"host": [
+										"images",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"channels",
+										"5d4db961034718b2f52f9e52",
+										"logo.png"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BG. vendors~clappr.117b3331d1956bfab199.js",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv/vendors~clappr.117b3331d1956bfab199.js",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"vendors~clappr.117b3331d1956bfab199.js"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BH. IPG Logo (TV Spotlight)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/logo.png",
+									"protocol": "http",
+									"host": [
+										"images",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"channels",
+										"5ba3fb9c4b078e0f37ad34e8",
+										"logo.png"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BI. IPG Logo (American Gladiators)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://images.pluto.tv/channels/5d815e489b315b154db2e053/logo.png",
+									"protocol": "http",
+									"host": [
+										"images",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"channels",
+										"5d815e489b315b154db2e053",
+										"logo.png"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BJ. IPG Logo (Spike Pluto TV)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/logo.png",
+									"protocol": "http",
+									"host": [
+										"images",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"channels",
+										"5812bcc8237a6ff45d16c407",
+										"logo.png"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BK. IPG Logo (cheddar news)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://images.pluto.tv/channels/5812afe1d0f0b8d55dde67fa/logo.png",
+									"protocol": "http",
+									"host": [
+										"images",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"channels",
+										"5812afe1d0f0b8d55dde67fa",
+										"logo.png"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BL. IPG Feature (American Gladiator)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://images.pluto.tv/channels/5d815e489b315b154db2e053/featuredImage.jpg",
+									"protocol": "http",
+									"host": [
+										"images",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"channels",
+										"5d815e489b315b154db2e053",
+										"featuredImage.jpg"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BM. IPG Logo (TV Cine Accion)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/logo.png",
+									"protocol": "http",
+									"host": [
+										"images",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"channels",
+										"5d8d164d92e97a5e107638d2",
+										"logo.png"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BN. 38861cba61c66739c1452c3a71e39852.ttf",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://pluto.tv/38861cba61c66739c1452c3a71e39852.ttf",
+									"protocol": "http",
+									"host": [
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"38861cba61c66739c1452c3a71e39852.ttf"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BO. IPG Logo (Dog - El Cazarrecompensas)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://images.pluto.tv/channels/5d93b39aa8742fa30938ca92/logo.png",
+									"protocol": "http",
+									"host": [
+										"images",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"channels",
+										"5d93b39aa8742fa30938ca92",
+										"logo.png"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BP. IPG Logo (Comedy Central Latino)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://images.pluto.tv/channels/5cf96dad1652631e36d43320/logo.png",
+									"protocol": "http",
+									"host": [
+										"images",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"channels",
+										"5cf96dad1652631e36d43320",
+										"logo.png"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BQ. IPG Logo (Channel Lineup)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://images.pluto.tv/channels/5bac15e47d92bd45a878f59c/logo.png",
+									"protocol": "http",
+									"host": [
+										"images",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"channels",
+										"5bac15e47d92bd45a878f59c",
+										"logo.png"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BR. Channel (b2e053/master.m3u8)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815e489b315b154db2e053/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=358b8dd8-9e3b-4364-a988-14b6107b7d13&deviceId=70568f5a-afb2-4272-ad94-8584f0f1f47f&deviceVersion=68.0&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=34.879&deviceLon=-83.992&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true",
+									"protocol": "http",
+									"host": [
+										"service-stitcher",
+										"clusters",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"stitch",
+										"hls",
+										"channel",
+										"5d815e489b315b154db2e053",
+										"master.m3u8"
+									],
+									"query": [
+										{
+											"key": "deviceType",
+											"value": "web"
+										},
+										{
+											"key": "deviceMake",
+											"value": "Firefox"
+										},
+										{
+											"key": "deviceModel",
+											"value": "Firefox"
+										},
+										{
+											"key": "sid",
+											"value": "358b8dd8-9e3b-4364-a988-14b6107b7d13"
+										},
+										{
+											"key": "deviceId",
+											"value": "70568f5a-afb2-4272-ad94-8584f0f1f47f"
+										},
+										{
+											"key": "deviceVersion",
+											"value": "68.0"
+										},
+										{
+											"key": "appVersion",
+											"value": "2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b"
+										},
+										{
+											"key": "deviceDNT",
+											"value": "0"
+										},
+										{
+											"key": "userId",
+											"value": ""
+										},
+										{
+											"key": "advertisingId",
+											"value": ""
+										},
+										{
+											"key": "deviceLat",
+											"value": "34.879"
+										},
+										{
+											"key": "deviceLon",
+											"value": "-83.992"
+										},
+										{
+											"key": "app_name",
+											"value": ""
+										},
+										{
+											"key": "appName",
+											"value": "web"
+										},
+										{
+											"key": "buildVersion",
+											"value": ""
+										},
+										{
+											"key": "appStoreUrl",
+											"value": ""
+										},
+										{
+											"key": "architecture",
+											"value": ""
+										},
+										{
+											"key": "includeExtendedEvents",
+											"value": "false"
+										},
+										{
+											"key": "serverSideAds",
+											"value": "true"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BS. Channel (b2e053/572723/playlist.m3u8)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815e489b315b154db2e053/572723/playlist.m3u8?terminate=false&deviceId=70568f5a-afb2-4272-ad94-8584f0f1f47f&deviceVersion=68.0&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Firefox&sid=358b8dd8-9e3b-4364-a988-14b6107b7d13&advertisingId=&deviceLat=34.879&deviceLon=-83.992&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false",
+									"protocol": "http",
+									"host": [
+										"service-stitcher",
+										"clusters",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"stitch",
+										"hls",
+										"channel",
+										"5d815e489b315b154db2e053",
+										"572723",
+										"playlist.m3u8"
+									],
+									"query": [
+										{
+											"key": "terminate",
+											"value": "false"
+										},
+										{
+											"key": "deviceId",
+											"value": "70568f5a-afb2-4272-ad94-8584f0f1f47f"
+										},
+										{
+											"key": "deviceVersion",
+											"value": "68.0"
+										},
+										{
+											"key": "appVersion",
+											"value": "2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b"
+										},
+										{
+											"key": "deviceType",
+											"value": "web"
+										},
+										{
+											"key": "deviceMake",
+											"value": "Firefox"
+										},
+										{
+											"key": "sid",
+											"value": "358b8dd8-9e3b-4364-a988-14b6107b7d13"
+										},
+										{
+											"key": "advertisingId",
+											"value": ""
+										},
+										{
+											"key": "deviceLat",
+											"value": "34.879"
+										},
+										{
+											"key": "deviceLon",
+											"value": "-83.992"
+										},
+										{
+											"key": "deviceDNT",
+											"value": "0"
+										},
+										{
+											"key": "deviceModel",
+											"value": "Firefox"
+										},
+										{
+											"key": "userId",
+											"value": ""
+										},
+										{
+											"key": "embedPartner",
+											"value": ""
+										},
+										{
+											"key": "appName",
+											"value": "web"
+										},
+										{
+											"key": "serverSideAds",
+											"value": "true"
+										},
+										{
+											"key": "architecture",
+											"value": ""
+										},
+										{
+											"key": "paln",
+											"value": ""
+										},
+										{
+											"key": "includeExtendedEvents",
+											"value": "false"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BT. Channel (b2e053/subtitle/en/playlist.m3u8)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815e489b315b154db2e053/subtitle/en/playlist.m3u8?terminate=false&deviceId=70568f5a-afb2-4272-ad94-8584f0f1f47f&deviceVersion=68.0&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Firefox&sid=358b8dd8-9e3b-4364-a988-14b6107b7d13&advertisingId=&deviceLat=34.879&deviceLon=-83.992&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false",
+									"protocol": "http",
+									"host": [
+										"service-stitcher",
+										"clusters",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"stitch",
+										"hls",
+										"channel",
+										"5d815e489b315b154db2e053",
+										"subtitle",
+										"en",
+										"playlist.m3u8"
+									],
+									"query": [
+										{
+											"key": "terminate",
+											"value": "false"
+										},
+										{
+											"key": "deviceId",
+											"value": "70568f5a-afb2-4272-ad94-8584f0f1f47f"
+										},
+										{
+											"key": "deviceVersion",
+											"value": "68.0"
+										},
+										{
+											"key": "appVersion",
+											"value": "2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b"
+										},
+										{
+											"key": "deviceType",
+											"value": "web"
+										},
+										{
+											"key": "deviceMake",
+											"value": "Firefox"
+										},
+										{
+											"key": "sid",
+											"value": "358b8dd8-9e3b-4364-a988-14b6107b7d13"
+										},
+										{
+											"key": "advertisingId",
+											"value": ""
+										},
+										{
+											"key": "deviceLat",
+											"value": "34.879"
+										},
+										{
+											"key": "deviceLon",
+											"value": "-83.992"
+										},
+										{
+											"key": "deviceDNT",
+											"value": "0"
+										},
+										{
+											"key": "deviceModel",
+											"value": "Firefox"
+										},
+										{
+											"key": "userId",
+											"value": ""
+										},
+										{
+											"key": "embedPartner",
+											"value": ""
+										},
+										{
+											"key": "appName",
+											"value": "web"
+										},
+										{
+											"key": "serverSideAds",
+											"value": "true"
+										},
+										{
+											"key": "architecture",
+											"value": ""
+										},
+										{
+											"key": "paln",
+											"value": ""
+										},
+										{
+											"key": "includeExtendedEvents",
+											"value": "false"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BU. Channel (b2e053/572723/playlist.m3u8)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815e489b315b154db2e053/572723/playlist.m3u8?terminate=false&deviceId=70568f5a-afb2-4272-ad94-8584f0f1f47f&deviceVersion=68.0&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Firefox&sid=358b8dd8-9e3b-4364-a988-14b6107b7d13&advertisingId=&deviceLat=34.879&deviceLon=-83.992&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false",
+									"protocol": "http",
+									"host": [
+										"service-stitcher",
+										"clusters",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"stitch",
+										"hls",
+										"channel",
+										"5d815e489b315b154db2e053",
+										"572723",
+										"playlist.m3u8"
+									],
+									"query": [
+										{
+											"key": "terminate",
+											"value": "false"
+										},
+										{
+											"key": "deviceId",
+											"value": "70568f5a-afb2-4272-ad94-8584f0f1f47f"
+										},
+										{
+											"key": "deviceVersion",
+											"value": "68.0"
+										},
+										{
+											"key": "appVersion",
+											"value": "2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b"
+										},
+										{
+											"key": "deviceType",
+											"value": "web"
+										},
+										{
+											"key": "deviceMake",
+											"value": "Firefox"
+										},
+										{
+											"key": "sid",
+											"value": "358b8dd8-9e3b-4364-a988-14b6107b7d13"
+										},
+										{
+											"key": "advertisingId",
+											"value": ""
+										},
+										{
+											"key": "deviceLat",
+											"value": "34.879"
+										},
+										{
+											"key": "deviceLon",
+											"value": "-83.992"
+										},
+										{
+											"key": "deviceDNT",
+											"value": "0"
+										},
+										{
+											"key": "deviceModel",
+											"value": "Firefox"
+										},
+										{
+											"key": "userId",
+											"value": ""
+										},
+										{
+											"key": "embedPartner",
+											"value": ""
+										},
+										{
+											"key": "appName",
+											"value": "web"
+										},
+										{
+											"key": "serverSideAds",
+											"value": "true"
+										},
+										{
+											"key": "architecture",
+											"value": ""
+										},
+										{
+											"key": "paln",
+											"value": ""
+										},
+										{
+											"key": "includeExtendedEvents",
+											"value": "false"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BV. Encryption Key (hls_300_keyfile_7.key)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://siloh-l3.plutotv.net/c6009f_pluto/clip/5d9e36c4f5553dbaabedd44f_American_Gladiators_1989_Round_One_Semi_Finals_1_S5E9/subHD/20191009_123639/hls/2108108-end/hls_300_keyfile_7.key",
+									"protocol": "http",
+									"host": [
+										"siloh-l3",
+										"plutotv",
+										"net"
+									],
+									"path": [
+										"c6009f_pluto",
+										"clip",
+										"5d9e36c4f5553dbaabedd44f_American_Gladiators_1989_Round_One_Semi_Finals_1_S5E9",
+										"subHD",
+										"20191009_123639",
+										"hls",
+										"2108108-end",
+										"hls_300_keyfile_7.key"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BW. Closed Caption (en.m3u8_0000000046.vtt)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://siloh-l3.plutotv.net/c6009f_pluto/clip/5d9e36c4f5553dbaabedd44f_American_Gladiators_1989_Round_One_Semi_Finals_1_S5E9/subHD/20191009_123639/hls/2108108-end/en/en.m3u8_0000000046.vtt",
+									"protocol": "http",
+									"host": [
+										"siloh-l3",
+										"plutotv",
+										"net"
+									],
+									"path": [
+										"c6009f_pluto",
+										"clip",
+										"5d9e36c4f5553dbaabedd44f_American_Gladiators_1989_Round_One_Semi_Finals_1_S5E9",
+										"subHD",
+										"20191009_123639",
+										"hls",
+										"2108108-end",
+										"en",
+										"en.m3u8_0000000046.vtt"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BX. Channel (b2e053/subtitle/en/playlist.m3u8)",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815e489b315b154db2e053/subtitle/en/playlist.m3u8?terminate=false&deviceId=70568f5a-afb2-4272-ad94-8584f0f1f47f&deviceVersion=68.0&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Firefox&sid=358b8dd8-9e3b-4364-a988-14b6107b7d13&advertisingId=&deviceLat=34.879&deviceLon=-83.992&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false",
+									"protocol": "http",
+									"host": [
+										"service-stitcher",
+										"clusters",
+										"pluto",
+										"tv"
+									],
+									"path": [
+										"stitch",
+										"hls",
+										"channel",
+										"5d815e489b315b154db2e053",
+										"subtitle",
+										"en",
+										"playlist.m3u8"
+									],
+									"query": [
+										{
+											"key": "terminate",
+											"value": "false"
+										},
+										{
+											"key": "deviceId",
+											"value": "70568f5a-afb2-4272-ad94-8584f0f1f47f"
+										},
+										{
+											"key": "deviceVersion",
+											"value": "68.0"
+										},
+										{
+											"key": "appVersion",
+											"value": "2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b"
+										},
+										{
+											"key": "deviceType",
+											"value": "web"
+										},
+										{
+											"key": "deviceMake",
+											"value": "Firefox"
+										},
+										{
+											"key": "sid",
+											"value": "358b8dd8-9e3b-4364-a988-14b6107b7d13"
+										},
+										{
+											"key": "advertisingId",
+											"value": ""
+										},
+										{
+											"key": "deviceLat",
+											"value": "34.879"
+										},
+										{
+											"key": "deviceLon",
+											"value": "-83.992"
+										},
+										{
+											"key": "deviceDNT",
+											"value": "0"
+										},
+										{
+											"key": "deviceModel",
+											"value": "Firefox"
+										},
+										{
+											"key": "userId",
+											"value": ""
+										},
+										{
+											"key": "embedPartner",
+											"value": ""
+										},
+										{
+											"key": "appName",
+											"value": "web"
+										},
+										{
+											"key": "serverSideAds",
+											"value": "true"
+										},
+										{
+											"key": "architecture",
+											"value": ""
+										},
+										{
+											"key": "paln",
+											"value": ""
+										},
+										{
+											"key": "includeExtendedEvents",
+											"value": "false"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "BY. Transport Stream",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://siloh-l3.plutotv.net/c6009f_pluto/clip/5d9e36c4f5553dbaabedd44f_American_Gladiators_1989_Round_One_Semi_Finals_1_S5E9/subHD/20191009_123639/hls/2108108-end/hls_300-00047.ts",
+									"protocol": "http",
+									"host": [
+										"siloh-l3",
+										"plutotv",
+										"net"
+									],
+									"path": [
+										"c6009f_pluto",
+										"clip",
+										"5d9e36c4f5553dbaabedd44f_American_Gladiators_1989_Round_One_Semi_Finals_1_S5E9",
+										"subHD",
+										"20191009_123639",
+										"hls",
+										"2108108-end",
+										"hls_300-00047.ts"
+									]
+								}
+							},
+							"response": []
+						}
+					],
+					"event": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"id": "eef8d4e2-d90f-46d7-8343-1fd657d6044f",
+								"type": "text/javascript",
+								"exec": [
+									""
+								]
+							}
+						},
+						{
+							"listen": "test",
+							"script": {
+								"id": "6b723c71-52c5-4dfa-a1ac-7c866fd709cd",
+								"type": "text/javascript",
+								"exec": [
+									""
+								]
+							}
+						}
+					],
+					"protocolProfileBehavior": {},
+					"_postman_isSubFolder": true
+				}
+			],
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"id": "af9f1361-e39c-4200-a72e-4367cf3f093d",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"id": "700e4644-1c79-46ba-80c1-56f8d39a6c66",
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Device (IOS)",
+			"item": [],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Device (Android)",
+			"item": [],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
